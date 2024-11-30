@@ -1,14 +1,13 @@
 ---
-title: Getting Started
+title: Under Constructed
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+ Patiently waiting, it's being perfected.
+author: Runze Li
+date: 2024-11-30 20:55:00 +0800
+categories: [Blogging, try]
+tags: [tmp]
 pin: true
-media_subpath: '/posts/20180809'
+media_subpath: '/posts/20241130'
 ---
 
 ## Creating a Site Repository
