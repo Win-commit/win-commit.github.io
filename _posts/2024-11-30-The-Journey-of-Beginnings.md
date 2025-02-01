@@ -1,11 +1,11 @@
 ---
-title: Under Constructed
+title: The Journey of Beginnings
 description: >-
  Patiently waiting, it's being perfected.
 author: Runze Li
 date: 2024-11-30 20:55:00 +0800
 categories: [Blogging, try]
-tags: [tmp]
+tags: [start]
 pin: true
 media_subpath: '/posts/20241130'
 ---
