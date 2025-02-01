@@ -11,7 +11,7 @@ order: 1
 {: .prompt-tip }
 I'm a senior at Nanjing University, China now and I'm finding a PhD position. 
 
-I'm now at [Dislab](https://dislab.nju.edu.cn/) in Nanjing University, with [Professor](http://cs.nju.edu.cn/lwz) WenZhong Li. And I was lucky enough to work with Professor [Jordan](https://www.cs.umd.edu/~jbg/) at umd for six months.
+I'm now at [Dislab](https://dislab.nju.edu.cn/) in Nanjing University, with [Professor](https://cs.nju.edu.cn/lwz) WenZhong Li. And I was lucky enough to work with Professor [Jordan](https://www.cs.umd.edu/~jbg/) at umd for six months.
 
 I am interested in NLP research. Specifically, I want to explore Safety of LLM or LLM-based system; Explanation and Robustness of LLM; Human-centered LLM design.
 
