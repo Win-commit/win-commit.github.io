@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: google-scholar
+  icon: "fa-brands fa-google-scholar"
+  url: "https://scholar.google.com/citations?user=POwNEoQAAAAJ&hl=zh-CN"
+
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 

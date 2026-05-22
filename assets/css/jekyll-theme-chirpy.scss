@@ -1,0 +1,127 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Publication list on the About page. */
+.selected-publications-title {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--main-border-color);
+}
+
+.selected-publications-title::before {
+  content: "\f044";
+  display: inline-block;
+  color: #e5572f;
+  font: var(--fa-font-solid);
+  font-size: 0.95em;
+}
+
+.publications-note {
+  margin: 1rem 0 2rem;
+}
+
+.selected-publications {
+  display: grid;
+  gap: 2.75rem;
+  margin-top: 2rem;
+}
+
+.publication-item {
+  display: grid;
+  grid-template-columns: minmax(260px, 42%) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.publication-media {
+  position: relative;
+  overflow: visible;
+  margin: 0;
+  border: 1px solid var(--main-border-color);
+  border-radius: 2px;
+  background: var(--card-bg);
+  box-shadow: 0 3px 12px rgb(0 0 0 / 14%);
+}
+
+.publication-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 2px;
+  object-fit: contain;
+}
+
+.publication-media .img-link {
+  display: block;
+  border-bottom: 0;
+}
+
+.publication-venue {
+  position: absolute;
+  z-index: 1;
+  top: 0.55rem;
+  left: -0.45rem;
+  display: inline-block;
+  padding: 0.35rem 0.95rem;
+  background: #0345a6;
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.publication-content {
+  min-width: 0;
+}
+
+.publication-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.publication-authors,
+.publication-meta,
+.publication-note {
+  margin: 0 0 0.45rem;
+  line-height: 1.6;
+}
+
+.publication-meta,
+.publication-note {
+  color: var(--text-muted-color);
+}
+
+.publication-note {
+  font-style: italic;
+}
+
+@media (max-width: 767.98px) {
+  .selected-publications {
+    gap: 2.25rem;
+  }
+
+  .publication-item {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .publication-media {
+    max-width: 520px;
+  }
+
+  .publication-venue {
+    left: 0.75rem;
+  }
+}
