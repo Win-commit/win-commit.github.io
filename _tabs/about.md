@@ -30,13 +30,13 @@ Email: lirunze [AT] westlake.edu.cn
 <div class="selected-publications">
   <article class="publication-item">
     <figure class="publication-media">
-      <span class="publication-venue">NeurIPS Review</span>
+      <span class="publication-venue">NeurIPS 2026</span>
       <img src="{{ '/assets/imgs/publications/WAV.png' | relative_url }}" alt="World-Value-Action Model figure placeholder">
     </figure>
     <div class="publication-content">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2604.14732">World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems</a></h3>
       <p class="publication-authors"><strong>Runze Li</strong>, Hongyin Zhang, Junxi Jin, Qixin Zeng, Zifeng Zhuang, Yiqi Tang, Shangke Lyu, Donglin Wang</p>
-      <p class="publication-meta">arXiv:2604.14732, 2026. Under NeurIPS review.</p>
+      <p class="publication-meta">arXiv:2604.14732, 2026.NeurIPS 2026.</p>
     </div>
   </article>
 
@@ -54,25 +54,25 @@ Email: lirunze [AT] westlake.edu.cn
 
   <article class="publication-item">
     <figure class="publication-media">
-      <span class="publication-venue">NeurIPS Review</span>
+      <span class="publication-venue">AAAI Review</span>
       <img src="{{ '/assets/imgs/publications/robustvla.png' | relative_url }}" alt="RobustVLA figure placeholder">
     </figure>
     <div class="publication-content">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2511.01331">RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models</a></h3>
       <p class="publication-authors">Hongyin Zhang, Shuo Zhang, Junxi Jin, <strong>Runze Li</strong>, Qixin Zeng, Zifeng Zhuang, Donglin Wang</p>
-      <p class="publication-meta">arXiv:2511.01331, 2025. Under NeurIPS review.</p>
+      <p class="publication-meta">arXiv:2511.01331, 2025. Under AAAI review.</p>
     </div>
   </article>
 
   <article class="publication-item">
     <figure class="publication-media">
-      <span class="publication-venue">NeurIPS Review</span>
+      <span class="publication-venue">ICLR Review</span>
       <img src="{{ '/assets/imgs/publications/crl-vla.png' | relative_url }}" alt="CRL-VLA figure placeholder">
     </figure>
     <div class="publication-content">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2602.03445">CRL-VLA: Continual Vision-Language-Action Learning</a></h3>
       <p class="publication-authors">Qixin Zeng, <strong>Runze Li</strong>, Shuo Zhang, Hongyin Zhang, Renjie Wang, Libang Zhao, Han Zhao, Haoang Li, Donglin Wang, Chao Huang</p>
-      <p class="publication-meta">arXiv:2602.03445, 2026. Under NeurIPS review.</p>
+      <p class="publication-meta">arXiv:2602.03445, 2026. Under ICLR review.</p>
     </div>
   </article>
 </div>
